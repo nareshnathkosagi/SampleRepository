@@ -1,0 +1,10 @@
+ Volume in drive D is DATA
+ Volume Serial Number is 5234-3A9F
+
+ Directory of D:\Automation_Training\Git_Practice
+
+08-Feb-18  04:18 PM    <DIR>          .
+08-Feb-18  04:18 PM    <DIR>          ..
+08-Feb-18  04:18 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  209,142,935,552 bytes free
